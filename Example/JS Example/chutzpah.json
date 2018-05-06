@@ -1,0 +1,13 @@
+﻿{
+  "Framework": "jasmine",
+  "References": [
+    {
+      "Path": "src/person.js"
+    }
+  ],
+  "Tests": [
+    {
+      "Path": "tests"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\repo\javascript-unit-testing-example\Example\JS Example\obj\Debug\JS Example.csprojResolveAssemblyReference.cache
+D:\repo\javascript-unit-testing-example\Example\JS Example\obj\Debug\JS Example.csproj.CoreCompileInputs.cache
+D:\repo\javascript-unit-testing-example\Example\JS Example\bin\Debug\JS Example.pdb
+D:\repo\javascript-unit-testing-example\Example\JS Example\obj\Debug\JS Example.pdb
+D:\repo\javascript-unit-testing-example\Example\JS Example\bin\Debug\JS Example.dll.config
+D:\repo\javascript-unit-testing-example\Example\JS Example\bin\Debug\JS Example.dll
+D:\repo\javascript-unit-testing-example\Example\JS Example\obj\Debug\JS Example.dll

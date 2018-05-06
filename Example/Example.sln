@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Example", "Example\Example.njsproj", "{2A37D4DB-B1FD-4A55-B97B-E3E57D2C4EC3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JS Example", "JS Example\JS Example.csproj", "{BF49477D-0433-44B0-8163-8102EECFD200}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2A37D4DB-B1FD-4A55-B97B-E3E57D2C4EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2A37D4DB-B1FD-4A55-B97B-E3E57D2C4EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2A37D4DB-B1FD-4A55-B97B-E3E57D2C4EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2A37D4DB-B1FD-4A55-B97B-E3E57D2C4EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF49477D-0433-44B0-8163-8102EECFD200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF49477D-0433-44B0-8163-8102EECFD200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF49477D-0433-44B0-8163-8102EECFD200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF49477D-0433-44B0-8163-8102EECFD200}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
