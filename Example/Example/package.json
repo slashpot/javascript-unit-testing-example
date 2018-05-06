@@ -1,0 +1,9 @@
+{
+  "name": "example",
+  "version": "0.0.0",
+  "description": "Example",
+  "main": "app.js",
+  "author": {
+    "name": "eric.lin88"
+  }
+}
